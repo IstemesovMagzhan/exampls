@@ -33,4 +33,4 @@ function ToDoForm({ addTask }) {
   )
 }
 
-export default ToDoForm;
+export default ToDoForm

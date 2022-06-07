@@ -14,4 +14,4 @@ function ToDo({ todo, toggleTask, removeTask }) {
   )
 }
 
-export default ToDo;
+export default ToDo
